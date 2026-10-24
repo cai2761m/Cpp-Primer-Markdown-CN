@@ -1,0 +1,7 @@
+# Local workspace state and conversion backups
+.obsidian/
+.marker/code-ocr-backup-*/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

@@ -1,0 +1,44 @@
+{
+  "800": {
+    "source_han": 134,
+    "output_han": 134,
+    "config": {
+      "mode": "fast",
+      "disable_ocr": true,
+      "page_range": [
+        800
+      ],
+      "paginate_output": true,
+      "pdftext_workers": 1,
+      "disable_tqdm": true,
+      "highres_image_dpi": 240,
+      "keep_pageheader_in_output": true,
+      "keep_pagefooter_in_output": true,
+      "common_element_threshold": 2.0,
+      "max_streak": 100000,
+      "filter_blank_pages": false,
+      "block_relabel_str": "Table:Text:1.01,TableOfContents:Text:1.01,Form:Text:1.01"
+    }
+  },
+  "860": {
+    "source_han": 124,
+    "output_han": 124,
+    "config": {
+      "mode": "fast",
+      "disable_ocr": true,
+      "page_range": [
+        860
+      ],
+      "paginate_output": true,
+      "pdftext_workers": 1,
+      "disable_tqdm": true,
+      "highres_image_dpi": 240,
+      "keep_pageheader_in_output": true,
+      "keep_pagefooter_in_output": true,
+      "common_element_threshold": 2.0,
+      "max_streak": 100000,
+      "filter_blank_pages": false,
+      "block_relabel_str": "Table:Text:1.01,TableOfContents:Text:1.01,Form:Text:1.01"
+    }
+  }
+}

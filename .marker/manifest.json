@@ -1,0 +1,39 @@
+{
+  "source_pdf": "D:\\learning\\ebook\\C++ Primer中文版：第5版【文字版！！！】 (王刚  杨巨峰) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "source_sha256": "dbdbdd1be6c95a0c3d8cd90509348182f1930caaa5f41f7ad7f2c281b9617794",
+  "source_pages": 1384,
+  "output": "C++ Primer（第5版）.md",
+  "output_sha256": "53b1c0c47a707a2f61164f2a010f2d263caccb0c3e772415327ea36395b6ba06",
+  "marker_version": "2.0.0",
+  "surya_version": "0.22.1",
+  "mode": "fast",
+  "disable_ocr": true,
+  "keep_pageheader_in_output": true,
+  "keep_pagefooter_in_output": true,
+  "embedded_image_preservation": true,
+  "image_dpi": 240,
+  "image_format": "PNG",
+  "batch_size": 24,
+  "output_images": 674,
+  "source_embedded_images": 2539,
+  "elapsed_conversion_seconds": 815.96,
+  "date": "2026-10-23",
+  "known_limitations": [
+    "PDF font and pagination layout is not preserved by Markdown.",
+    "Validation compares page coverage, image coverage, and Han character counts; visual review is sampled.",
+    "Image code was OCR-transcribed; original PNG assets and Markdown backups are retained for verification."
+  ],
+  "code_ocr": {
+    "engine": "GLM-OCR Q8_0 via local llama.cpp CUDA",
+    "date": "2026-10-23",
+    "source_before_sha256": "7c586baa76f9d00069c05b1a1253fe9b838398ab957b519e51001ec9bb3d5008",
+    "source_after_sha256": "53b1c0c47a707a2f61164f2a010f2d263caccb0c3e772415327ea36395b6ba06",
+    "images_considered": 2479,
+    "converted_code_images": 1865,
+    "code_block_insertions": 3734,
+    "remaining_image_references_in_full_book": 674,
+    "changed_markdown_files": 118,
+    "images_retained": true,
+    "backup": ".marker/code-ocr-backup-20261023-c6320d"
+  }
+}
